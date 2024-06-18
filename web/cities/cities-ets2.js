@@ -11162,4 +11162,4 @@ cities = cities.concat(cities_roextended_turkey); //RoExtended Turkey (v2.8)
 //cities = cities.concat(cities_open_spaces); //Open Spaces
 //cities = cities.concat(cities_yks_turkey); //YKS Turkey
 //cities = cities.concat(cities_yksrsk); //YKSRSK
-//cities = cities.concat(cities_romania_extended); //Romania Extended
+cities = cities.concat(cities_romania_extended); //Romania Extended
